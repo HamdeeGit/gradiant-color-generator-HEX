@@ -65,7 +65,6 @@ body {
     letter-spacing: 0.08em;
     color: var(--black-color);
     background: linear-gradient(135deg, var(--white-transparent-heavy), var(--white-transparent-light), var(--white-transparent-heavy), var(--white-transparent-light), var(--white-transparent-heavy), var(--white-transparent-light), var(--white-transparent-heavy));
-    /* mix-blend-mode: difference; */
 }
 .palete {
     display: block;
